@@ -6,7 +6,7 @@ function Hero() {
       <div className="hero-content">
         <center>
         <h1>
-          I'M <br />
+          I'M<br />
           <span>NAVEENKUMAR</span>
         </h1>
 
